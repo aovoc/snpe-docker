@@ -5,7 +5,7 @@ Most examples assume that you are using vision models, but they can still help y
 
 ## Build the docker container
 
-First download and place the [snpe 1.47 zip](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk) in the root of this project, then, to build and run the docker with your snpe environment run the following:
+First download and place the [snpe 1.47 zip](https://developer.qualcomm.com/downloads/qualcomm-neural-processing-sdk-ai-v1470?referrer=node/69030) in the root of this project, then, to build and run the docker with your snpe environment run the following:
 
 ```bash
 $ git clone https://github.com/4knahs/snpe-docker.git
